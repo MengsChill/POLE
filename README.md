@@ -7,11 +7,11 @@
 
   <p align="center">
     An AI assisted walking stick for the visually impaired    <br />
-    <a href="https://github.com/MengsChill/01000011_KitaHack2026">View Demo</a>
+    <a href="https://github.com/MengsChill/POLE">View Demo</a>
     &middot;
-    <a href="https://github.com/MengsChill/01000011_KitaHack2026/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/MengsChill/POLE/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/MengsChill/01000011_KitaHack2026/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/MengsChill/POLE/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -71,7 +71,7 @@ Watch our [marketing video.](https://youtu.be/KioN7g3V8Qs)
 
 POLE is still a work in progress, help us by proposing features you would like to be seen implemented!
 
-[Propose Features](https://github.com/MengsChill/01000011_KitaHack2026/issues/new?labels=enhancement&template=feature-request---.md)
+[Propose Features](https://github.com/MengsChill/POLE/issues/new?labels=enhancement&template=feature-request---.md)
 
 - [x] Base model w/o AI integration
 - [x] AI integration to give a detailed description
@@ -82,7 +82,7 @@ POLE is still a work in progress, help us by proposing features you would like t
 - [ ] Integration with Google Maps and indoor positioning systems
 - [ ] Real-time facial recognition of friends and family
 
-See the [open issues](https://github.com/MengsChill/01000011_KitaHack2026/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/MengsChill/POLE/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,7 +104,7 @@ To get a local copy up and running, follow these steps to set up both the Hardwa
 ###  Mobile App Setup
 1.  **Clone the repo**
     ```sh
-    git clone https://github.com/MengsChill/01000011_KitaHack2026.git
+    git clone https://github.com/MengsChill/POLE.git
     cd smartstick_app
     ```
 2.  **Install Dependencies**
@@ -130,7 +130,7 @@ To get a local copy up and running, follow these steps to set up both the Hardwa
 * [Dart SDK](https://dart.dev/get-started/sdk)
 * A Firebase account
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 POLE combines high-performance mobile development with edge AI and IoT to create a seamless assistive experience.
 
@@ -175,7 +175,7 @@ This project was a collaborative effort by the following members:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[issues-url]: https://github.com/MengsChill/01000011_KitaHack2026/issues
+[issues-url]: https://github.com/MengsChill/POLE/issues
 [product-screenshot]: images/screenshot.png
 [Dart.dev]: https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
 [Dart-url]: https://dart.dev/
