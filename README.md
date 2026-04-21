@@ -29,19 +29,28 @@ POLE innovates your basic old walking stick, designed to enhance mobility and in
 
 
 
-### Built With
-* [![React][React.js]][React-url]
-* [![Dart][Dart.dev]][Dart-url]
-* [![Python][Python.org]][Python-url]
-* [![C++][Cpp.com]][Cpp-url]
-* [![Flutter][Flutter.dev]][Flutter-url]
-* [![Firebase][Firebase.google.com]][Firebase-url]
-* [![Shell][Shell.sh]][Shell-url]
-* [![YAML][YAML.org]][YAML-url]
-* [![JSON][JSON.org]][JSON-url]
-* [![Markdown][Markdown.org]][Markdown-url]
-* [![Kotlin][Kotlin.lang]][Kotlin-url]
-* [![Java][Java.com]][Java-url]
+### 🛠 Built With
+
+**Frontend & App Framework**
+* ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) - UI Toolkit for crafting beautiful, natively compiled applications.
+* ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) - The programming language used to build the Flutter app.
+
+**Backend & Database**
+* ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) - Comprehensive App Development Platform.
+  * **Firebase Authentication:** Secure login, including Google Sign-in.
+  * **Cloud Firestore:** Real-time NoSQL database.
+  * **Firebase Cloud Storage:** Storing and serving user-generated content (images).
+
+**Hardware Integration**
+* ![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white) - Microcontroller used for IoT hardware features.
+* ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) - The language used to program the ESP32 hardware.
+
+**Key Features & APIs**
+* [Google Maps Flutter](https://pub.dev/packages/google_maps_flutter) - In-app maps visualization.
+* [Geolocator](https://pub.dev/packages/geolocator) & [Geocoding](https://pub.dev/packages/geocoding) - Location tracking and address translation.
+* [Local Auth](https://pub.dev/packages/local_auth) - Multi-factor biometric authentication (Face ID & Touch ID).
+* [Weather API](https://pub.dev/packages/weather) - Meteorological data fetching.
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
