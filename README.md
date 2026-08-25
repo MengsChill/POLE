@@ -29,7 +29,7 @@ POLE innovates your basic old walking stick, designed to enhance mobility and in
 
 
 
-### 🛠 Built With
+### Built With
 
 **Frontend & App Framework**
 * ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) - UI Toolkit for crafting beautiful, natively compiled applications.
@@ -52,13 +52,6 @@ POLE innovates your basic old walking stick, designed to enhance mobility and in
 * [Weather API](https://pub.dev/packages/weather) - Meteorological data fetching.
 
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Usage
-Learn how to use the POLE with our [video demo (unavailable rn :(.)]()
-
-Watch our [marketing video.](https://youtu.be/KioN7g3V8Qs)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
