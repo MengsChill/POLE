@@ -66,11 +66,6 @@ POLE is still a work in progress, help us by proposing features you would like t
 - [x] Base model w/o AI integration
 - [x] AI integration to give a detailed description
 - [ ] Better app integration (currently using Blynk for AI description output :/)
-- [ ] Text to speech locally
-- [ ] Locally hosted AI to remove the reliance on internet
-- [ ] Real Time AI object detection
-- [ ] Integration with Google Maps and indoor positioning systems
-- [ ] Real-time facial recognition of friends and family
 
 See the [open issues](https://github.com/MengsChill/POLE/issues) for a full list of proposed features (and known issues).
 
@@ -149,12 +144,10 @@ The project follows a modular architecture:
 *   **Hardware Layer**: Low-level C++ code managing sensor interrupts and AI image capture.
 *   **IoT Bridge**: A secure data tunnel using Blynk to ensure real-time communication without complex server management.
 *   **Mobile Layer**: A Flutter app acting as a high-level control center for both the user and their caregiver.
-*   **Security First**: Implementation of environment-based configuration for all sensitive API keys (Google Maps, Firebase, Weather).
 
 ### Challenges Faced & Overcome
 1.  **Memory Constraints**: The ESP32-S3 has limited PSRAM. We optimized the AI image capture and encoding process to ensure high-quality images could be sent to Gemini without crashing the hardware.
 2.  **Real-Time Data Sync**: To ensure caregiver tracking was accurate, we implemented a custom polling and Firestore listener system to balance battery life with real-time updates.
-3.  **Security in Open Source**: We faced a challenge in keeping our private API keys secure for the hackathon. We overcame this by building a custom `.env` loading logic for our Flutter app and securing our `.gitignore`.
 
 # Contributors
 This project was a collaborative effort by the following members:
